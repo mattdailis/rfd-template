@@ -1,5 +1,20 @@
-= Sample RFD
+:showtitle:
+:toc: left
+:numbered:
+:icons: font
 :state: prediscussion
-// :state: 'ideation':
-// :state: 'abandoned':
-// :state: 'discussion':
+:discussion:
+:revremark: State: {state} | {discussion}
+:authors: Andy Hertzfeld <andy@example.com>; Neal Firth <neal@example.com>
+
+= RFD 0001 Sample
+{authors}
+
+== Determinations
+
+== Open Questions
+
+== Security Considerations
+
+[bibliography]
+== External References
