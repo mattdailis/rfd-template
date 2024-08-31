@@ -1,0 +1,5 @@
+= Sample RFD
+:state: prediscussion
+// :state: 'ideation':
+// :state: 'abandoned':
+// :state: 'discussion':
