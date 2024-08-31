@@ -15,4 +15,4 @@ sed -i '' -e "s/<Title>/$TITLE/g" $NEW_RFD_FILE
 
 git add $NEW_RFD_FILE
 git commit -m "$RFD_NUMBER: Adding placeholder for RFD \"$TITLE\""
-git push origin $BRANCH_NAME
+git push --set-upstream origin $BRANCH_NAME
